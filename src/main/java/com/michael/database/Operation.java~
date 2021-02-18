@@ -1,0 +1,9 @@
+package com.michael.database;
+
+public enum Operation {
+    CREATE,
+    READALL,
+    READONE,
+    UPDATE,
+    DELETE
+}

@@ -1,0 +1,4 @@
+package com.michael.database.command;
+
+public interface Command {
+}
